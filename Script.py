@@ -208,6 +208,11 @@ Nᴀᴍᴇ - {}"""
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
+    I_CUD_NT = """appki request jald hi puri ki jayegi..."""
+
+    MVE_NT_FND = """appki request jald hi admin dwara puri ki jayegi..."""
+
+    TOP_ALRT_MSG = """please wait........"""
     
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
